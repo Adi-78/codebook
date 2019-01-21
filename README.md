@@ -6,7 +6,7 @@ This Code Only Works to Transfer Text Delimited Files From Windows Machine to Li
   1. MySQL (Any Version)
   2. Python (Ver: 3.5 + would be great)
   3. Windows Machine
-  4. putty
+  4. Putty
 
 There is some fields where you need to replace with your required details.
 
