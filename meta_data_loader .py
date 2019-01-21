@@ -53,7 +53,7 @@ try:
 		
 		if os.path.exists(path):
 			shutil.rmtree(path)
-			print("\nWarning: Already Exists Directory Removed.")
+			print("\nWarning: Directory '{0}' Already Exists in This Path '{1}' Getting Removed.".format(db_name,path))
 			#sys.exit() 
 		os.makedirs(path)
 		print ("\nSuccess: Directory '%s' Created." % path)
