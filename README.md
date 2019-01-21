@@ -21,7 +21,7 @@ There is some fields where you need to replace with your required details.
  
 Once your edited the code you are now good to go.
 
-open the window cmd and navigate to directory where you placed the code.
+Open the window cmd and navigate to directory where you placed the code.
 
 py meta_data_loader.py
 
