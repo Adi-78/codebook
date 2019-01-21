@@ -1,15 +1,15 @@
 import sys   
 import os
 import string
-import mysql.connector as mariadb
+import mysql.connector as mysql
 from mysql.connector import Error
 import re
 import shutil # rmtree Method Belongs to This Module
 
 try:
-#MariaDB connection block
+#mysql connection block
 
-	db = mariadb.connect(user='<mysql_user>',password='<mysql_password>',host='<mysql_host>',database='<mysql_database>')
+	db = mysql.connect(user='<mysql_user>',password='<mysql_password>',host='<mysql_host>',database='<mysql_database>')
 	cursor = db.cursor()
 
 #retrieving information
