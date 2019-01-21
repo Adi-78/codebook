@@ -1,3 +1,3 @@
 # codebook
-This code only works to transfer text delimited files from windows machine to linux machine.
+This Code Only Works to Transfer Text Delimited Files From Windows Machine to Linux Machine.
 
