@@ -110,14 +110,3 @@ finally:
     #closing database connection.
     if(db.is_connected()):
         db.close()
-        	
-
-
-	
-
-
-
-
-
-
-	
