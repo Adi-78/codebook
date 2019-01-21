@@ -8,28 +8,22 @@ This Code Only Works to Transfer Text Delimited Files From Windows Machine to Li
   3. Windows Machine
   4. Putty
 
-There is some fields where you need to replace with your required details.
+  There is some fields where you need to replace with your required details.
 
-<mysql_user> = Replace with your user name.
-
-<mysql_password> = Replace with your user's password.
-
-<mysql_host> = Replace with MySQL host.
-
-<mysql_database> = Replace with your database name.
-
-<mysql_table> = Replace with your table name.
-
-<Target Directory Path of Linux Server> = Replace with your linux server direcorty path where you want to place the meta files.
+  <mysql_user> = Replace with your user name.
+  <mysql_password> = Replace with your user's password.
+  <mysql_host> = Replace with MySQL host.
+  <mysql_database> = Replace with your database name.
+  <mysql_table> = Replace with your table name.
+  <Target Directory Path of Linux Server> = Replace with your linux server direcorty path where you want to place the meta files.
+  <DNS> = Replace with your DNS name.
   
-<DNS> = Replace with your DNS name.
-  
-<Store Proc For OutFile> = Replace with your store procedure for outfile.
+  <Store Proc For OutFile> = Replace with your store procedure for outfile.
  
-Once your edited the code you are now good to go.
+  Once your edited the code you are now good to go.
 
-Open the window cmd and navigate to directory where you placed the code.
+  Open the window cmd and navigate to directory where you placed the code.
 
-py meta_data_loader.py
+  py meta_data_loader.py
 
-Thanks.
+  Thanks.
