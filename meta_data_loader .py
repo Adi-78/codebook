@@ -60,7 +60,7 @@ try:
 		
 		args = [db_name,client_name,server_name,client_id,dsn_id,user_name,path] #Passing Parameters to Procedure
 		#cursor = db.cursor()	
-		cursor.callproc('sp_metadata', args)
+		cursor.callproc('<Store Proc For OutFile>', args)
 		db.commit()
 		cursor.close()
 			
