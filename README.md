@@ -1,5 +1,5 @@
 # codebook
-This Code Only Works to Transfer Text Delimited Files From Windows Machine to Linux Machine, However litle customization could be great to make this code to work for any platform.
+This Code Only Works to Transfer Text Delimited Files From Windows Machine to Linux Machine, However little customization could be great to make this code to work for any platform.
 
 <prerequisite>
   
