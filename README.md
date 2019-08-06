@@ -1,7 +1,7 @@
 # codebook
 This Code Only Works to Transfer Text Delimited Files From Windows Machine to Linux Machine, However little customization could be great to make this code to work for any platform.
 
-</b>prerequisite<>
+<b>prerequisite</b>
   
   1. MySQL (Any Version)
   2. Python (Ver: 3.5 + would be great)
