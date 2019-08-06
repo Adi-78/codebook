@@ -10,7 +10,8 @@ This Code Only Works to Transfer Text Delimited Files From Windows Machine to Li
 
   There is some fields where you need to replace with your required details.
 
-  <h1><mysql_user> = Replace with your user name.</h1>
+  <div class="footer">
+  <mysql_user> = Replace with your user name.</h1>
   <mysql_password> = Replace with your user's password.
   <mysql_host> = Replace with MySQL host.
   <mysql_database> = Replace with your database name.
@@ -19,7 +20,7 @@ This Code Only Works to Transfer Text Delimited Files From Windows Machine to Li
   <DNS> = Replace with your DNS name.
   
   <Store Proc For OutFile> = Replace with your store procedure for outfile.
- 
+  </div>
   Once you edited the code you are now good to go.
 
   Open the window cmd and navigate to directory where you placed the code.
