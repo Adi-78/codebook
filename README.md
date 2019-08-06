@@ -10,7 +10,7 @@ This Code Only Works to Transfer Text Delimited Files From Windows Machine to Li
 
 There is some fields where you need to replace with your required details.
 
-<mysql_user>     => Replace with your user name.
+<mysql_user> => Replace with your user name.
 <mysql_password> => Replace with your user's password.
 <mysql_host> => Replace with MySQL host.
 <mysql_database> => Replace with your database name.
