@@ -25,6 +25,6 @@ This Code Only Works to Transfer Text Delimited Files From Windows Machine to Li
 
   Open the window cmd and navigate to directory where you placed the code.
 
-  <p>py <name of file>.py</p>
+  <p>py file_name.py</p>
 
   Thanks.
