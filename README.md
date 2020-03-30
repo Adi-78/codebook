@@ -1,5 +1,3 @@
-<pre>
-
 # codebook
 This Code Only Works to Transfer Text Delimited Files From Windows Machine to Linux Machine, However little customization could be great to make this code to work for any platform.
 
@@ -28,4 +26,3 @@ Open the window cmd and navigate to directory where you placed the code.
 py file_name.py
 
 Thanks.
-</pre>
